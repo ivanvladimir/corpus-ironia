@@ -23,8 +23,8 @@ ironicos.txt y noironicos.txt siguen el siguiente formato:
   
 # Referncias
 
-* Jasso, G. and Meza, I.: (Character and Word Baselines Systems for Irony Detection in Spanish Short Texts)[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5285/3079]. Procesamiento de Lenguaje Natural, Vol. 56, pp. 41-48, 2016.
+* Jasso, G. and Meza, I.: [Character and Word Baselines Systems for Irony Detection in Spanish Short Texts](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5285/3079). Procesamiento de Lenguaje Natural, Vol. 56, pp. 41-48, 2016.
 
 # Licencia
 
-Siguiendo los lineamientos de Twitter esta colección sólo incluye la información de los identificadores de los tweets. La colección está bajo la licenciaLicencia Creative Commons Corpus "tuits" irónicos por Gabriela Jasso, Ivan Meza, Red Temática en Tecnologías del Lenguaje, CONACYT se distribuye bajo una (Licencia Creative Commons Atribución 4.0 Internacional)[http://creativecommons.org/licenses/by/4.0/].
+Siguiendo los lineamientos de Twitter esta colección sólo incluye la información de los identificadores de los tweets. La colección está bajo la licenciaLicencia Creative Commons Corpus "tuits" irónicos por Gabriela Jasso, Ivan Meza, Red Temática en Tecnologías del Lenguaje, CONACYT se distribuye bajo una [Licencia Creative Commons Atribución 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
