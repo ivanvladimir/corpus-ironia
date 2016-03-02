@@ -23,7 +23,7 @@ ironicos.txt y noironicos.txt siguen el siguiente formato:
   
 # Referncias
 
-* Jasso, G. and Meza, I.: [Character and Word Baselines Systems for Irony Detection in Spanish Short Texts](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5285/3079). Procesamiento de Lenguaje Natural, Vol. 56, pp. 41-48, 2016.
+* Jasso, G. and Meza, I.: (Character and Word Baselines Systems for Irony Detection in Spanish Short Texts)[http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5285/3079]. Procesamiento de Lenguaje Natural, Vol. 56, pp. 41-48, 2016.
 
 # Licencia
 
